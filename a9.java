@@ -1,4 +1,4 @@
-public class HelloWorld
+public class a9
 {
   public static void main( String[] args )
   {
